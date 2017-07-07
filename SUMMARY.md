@@ -4,6 +4,7 @@
 
 * [说明](README.md)
 * [基本逻辑](basic.md)
+* [实现简单原型](simpledemo.md)
 
 ## 官方文档翻译
 
