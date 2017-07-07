@@ -8,7 +8,7 @@ Origami Studio 教程以及翻译官方 Patch 文档。
 
 ## 目录
 
-1. 基本逻辑
+1. [基本逻辑](/basic.md)
 
 ## 许可协议
 
