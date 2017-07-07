@@ -7,9 +7,7 @@
 
 ## 官方文档翻译
 
-* [Documents/interaction-patches.md](Documents/interaction-patches.md)
-* [Documents/animation-patches.md](Documents/animation-patches.md)
-* [Documents/utility-1-patches.md](Documents/utility-1-patches.md)
-
-
+* [interaction-patches\(0%\)](Documents/interaction-patches.md)
+* [animation-patches\(0%\)](Documents/animation-patches.md)
+* [utility-1-patches\(0%\)](Documents/utility-1-patches.md)
 
