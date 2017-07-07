@@ -7,9 +7,9 @@
 
 ## 官方文档翻译
 
-* [Interaction - Patches](guan-fang-wen-dang-fan-yi/interaction-patches.md)
-* [animation-patches](guan-fang-wen-dang-fan-yi/animation-patches.md)
-* [utility-1-patches](guan-fang-wen-dang-fan-yi/utility-1-patches.md)
+* [Documents/interaction-patches.md](Documents/interaction-patches.md)
+* [Documents/animation-patches.md](Documents/animation-patches.md)
+* [Documents/utility-1-patches.md](Documents/utility-1-patches.md)
 
 
 
